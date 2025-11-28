@@ -52,7 +52,7 @@ Selected for the AWS Community Builders program under the **Containers Category*
 ---
 
 ## ✍️ Writing & Knowledge Sharing
-Writing helps me think better—and helps others learn faster.  
+Writing helps me think better and helps others learn faster.  
 I regularly publish across platforms:
 
 - **Medium:** Articles on AI, cloud, and modern technology  
