@@ -12,7 +12,6 @@ I’m committed to continuous learning and to building knowledge that actually h
 
 ---
 
----
 
 ## 📊 GitHub Activity
 
