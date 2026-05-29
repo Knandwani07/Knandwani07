@@ -12,17 +12,6 @@ I’m committed to continuous learning and to building knowledge that actually h
 
 ---
 
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Knandwani07&theme=github-compact&hide_border=true" />
-</p>
-
-
-
----
-
 ## 🧭 Community & Programs
 ### **AWS Community Builder (Containers Category)**
 Selected for the AWS Community Builders program under the **Containers Category**, recognized for my contributions, learning journey, and commitment to sharing cloud knowledge.
