@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Khushi 👋</h1>
 <h3 align="center">AWS Certified Solutions Architect | Focused on AWS Cloud & Serverless</h3>
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Knandwani07&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
 
 ---
 
@@ -83,13 +78,6 @@ I regularly publish across platforms:
 ![](https://raw.githubusercontent.com/Knandwani07/Knandwani07/main/profile-summary-card-output/github_dark/4-productive-time.svg)
 ---
 
-## 📅 Contribution Calendar
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="Contribution Calendar" width="80%">
-</p>
-
-
 --- 
 ## 📈 Contribution Graph
 
@@ -97,6 +85,12 @@ I regularly publish across platforms:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Knandwani07&theme=github-dark&hide_border=true" alt="Contribution Graph">
 </p>
 
+---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Knandwani07/Knandwani07/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+</p>
 ---
 
 ## 📫 Let's Connect
