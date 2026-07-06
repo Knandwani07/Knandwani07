@@ -19,9 +19,10 @@ Selected for the AWS Community Builders program under the **Containers Category*
 ---
 
 ## 🎓 Certifications
-- **AWS Solutions Architect Associate (SAA)**  
-- **AWS Cloud Practitioner (CCP)**  
-- **AWS AI Practitioner**
+<img width="200" height="200" alt="ccp" src="https://github.com/user-attachments/assets/ef7d0723-2b30-4c13-bccb-b826e9f90a90" />
+<img width="200" height="200" alt="ai2" src="https://github.com/user-attachments/assets/197ba4b4-c22c-482a-8a9a-8561e2c4f3cd" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f4dc4db9-6960-4f33-a807-2e55cce978a0" />
+<img width="200" height="200" alt="saa" src="https://github.com/user-attachments/assets/30996e63-af01-42f3-9bd7-c6d6ae54df2c" />
 
 ---
 
