@@ -86,10 +86,10 @@ I regularly publish across platforms:
 
 
 --- 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Knandwani07/Knandwani07/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Knandwani07&theme=github-dark&hide_border=true" alt="Contribution Graph">
 </p>
 
 ---
