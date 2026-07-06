@@ -68,6 +68,12 @@ I regularly publish across platforms:
 
 ---
 
+## 📊 GitHub Metrics
+
+![Metrics](./github-metrics.svg)
+
+--- 
+
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/khushi-nandwani](https://www.linkedin.com/in/khushi-nandwani)  
