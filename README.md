@@ -85,7 +85,6 @@ I regularly publish across platforms:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Knandwani07&theme=github-dark&hide_border=true" alt="Contribution Graph">
 </p>
 
----
 ## 🐍 Contribution Snake
 
 <p align="center">
