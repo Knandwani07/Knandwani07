@@ -75,6 +75,11 @@ I regularly publish across platforms:
 </p>
 
 --- 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Knandwani07&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+---
 
 ## 📫 Let's Connect
 
