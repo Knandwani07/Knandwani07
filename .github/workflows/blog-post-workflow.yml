@@ -1,15 +1,19 @@
-name: Latest blog posts
+name: Latest Substack Posts
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"   # Every 12 hours
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
+  update-readme-with-substack:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://substack.com/feed/@knandwani07"
+          feed_list: "https://knandwani07.substack.com/feed"
+          max_post_count: 5
