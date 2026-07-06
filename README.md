@@ -86,7 +86,13 @@ I regularly publish across platforms:
 
 
 --- 
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Knandwani07/Knandwani07/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+</p>
+
+---
 
 ## 📫 Let's Connect
 
