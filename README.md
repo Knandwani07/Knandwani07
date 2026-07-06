@@ -1,5 +1,10 @@
 <h1 align="center">Hi, I'm Khushi 👋</h1>
 <h3 align="center">AWS Certified Solutions Architect | Focused on AWS Cloud & Serverless</h3>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Knandwani07&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 ---
 
