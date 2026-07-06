@@ -61,12 +61,7 @@ I regularly publish across platforms:
 
 ---
 
-## 📋 Todoist Stats
-
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END --> 
-
-📌 **Read my work:**  
+## 📌 **Read my work:**  
 - **Medium:** https://medium.com/@khushinandwanii  
 - **Substack (Personal):** https://substack.com/@knandwani07  
 - **Substack (Co-authored):** https://substack.com/@thecloudwhisperers
