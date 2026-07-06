@@ -71,7 +71,7 @@ I regularly publish across platforms:
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="80%">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="50%">
 </p>
 
 --- 
