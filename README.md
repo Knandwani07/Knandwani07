@@ -57,7 +57,14 @@ I regularly publish across platforms:
 
 - **Medium:** Articles on AI, cloud, and modern technology  
 - **Substack:** I write my own technical articles and also co-author in-depth AWS & AI pieces with fellow AWS Community Builders  
-- **AWS Study Platform:** An interactive learning hub built to support certification learners  
+- **AWS Study Platform:** An interactive learning hub built to support certification learners
+
+---
+
+## 📋 Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END --> 
 
 📌 **Read my work:**  
 - **Medium:** https://medium.com/@khushinandwanii  
