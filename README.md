@@ -78,10 +78,10 @@ I regularly publish across platforms:
 ![](https://raw.githubusercontent.com/Knandwani07/Knandwani07/main/profile-summary-card-output/github_dark/4-productive-time.svg)
 ---
 
-## 📊 GitHub Metrics
+## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="50%">
+  <img src="./github-metrics.svg" alt="Contribution Calendar" width="80%">
 </p>
 
 
