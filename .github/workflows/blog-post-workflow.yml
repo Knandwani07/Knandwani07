@@ -1,25 +1,27 @@
-name: Latest Substack Posts
+name: Test Substack Feed
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 */12 * * *"
-
-permissions:
-  contents: write
 
 jobs:
-  update-readme:
+  test:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Test RSS Feed
+        run: |
+          python - << 'EOF'
+          import requests
 
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://knandwani07.substack.com/feed"
-          max_post_count: 5
-          user_agent: "Mozilla/5.0"
-          accept_header: "application/rss+xml,application/xml,text/xml"
-          retry_count: 3
-          retry_wait_time: 5
+          url = "https://knandwani07.substack.com/feed"
+
+          headers = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+              "Accept": "application/rss+xml, application/xml, text/xml"
+          }
+
+          response = requests.get(url, headers=headers)
+
+          print("Status:", response.status_code)
+          print(response.text[:500])
+          EOF
