@@ -1,20 +1,18 @@
 <h1 align="center">Hi, I'm Khushi 👋</h1>
-<h3 align="center">AWS Certified Solutions Architect | Focused on AWS Cloud & Serverless</h3>
+<h3 align="center">Cloud Engineer | AWS Certified (SAA, AI, CCP) | Building Self-Healing & Disaster-Recovery Infrastructure</h3>
 
 ---
 
 ## 🌟 About Me
-I’m someone who believes clarity is as important as technology.  
-My work revolves around **AWS cloud**, **serverless design**, and writing **structured technical documentation** that makes complex systems simple to understand.
+I build AWS infrastructure that recovers from failure without a human in the loop, and I document it well enough that someone else could rebuild it from scratch.
 
-I enjoy exploring cloud services, creating end-to-end workflows, and documenting them in a way that helps teams build confidently.  
-I’m committed to continuous learning and to building knowledge that actually helps people.
+My work centers on **cloud architecture**, **disaster recovery automation**, and **serverless systems**, backed by structured technical documentation that makes complex infrastructure decisions understandable to both engineers and nontechnical stakeholders.
 
 ---
 
 ## 🧭 Community & Programs
 ### **AWS Community Builder (Containers Category)**
-Selected for the AWS Community Builders program under the **Containers Category**, recognized for my contributions, learning journey, and commitment to sharing cloud knowledge.
+Selected for the AWS Community Builders program under the **Containers Category**, now in my second consecutive year, recognized for technical content creation and open-source contributions.
 
 ---
 
@@ -27,45 +25,72 @@ Selected for the AWS Community Builders program under the **Containers Category*
 ---
 
 ## 🛠️ What I Work With
-- **AWS:** Lambda, S3, DynamoDB, EventBridge, IAM, CloudWatch  
-- **Architecture:** Serverless workflows, event-driven systems  
-- **Technical Writing:** Deployment guides, diagrams, structured notes  
-- **Programming:** Python, JavaScript  
-- **DevOps Fundamentals:** Automation basics, Linux  
-- **AI Tools:** Documentation enhancement, research assistance
+- **AWS Compute & Containers:** ECS Fargate, Lambda, EC2, ECR
+
+- **AWS Data & Storage:** RDS (MySQL), DynamoDB, S3, Athena
+
+- **AWS Networking:** VPC, Multi-AZ subnetting, NAT/Internet Gateway, Route Tables
+
+- **AWS Ops & Monitoring:** CloudWatch, EventBridge, SNS, Systems Manager Automation, Config, CloudTrail
+
+- **IaC & Tooling:** Terraform, Docker, Git
+
+- **Programming:** Python, JavaScript
+
+---
+
+## 🏗️ Featured Projects
+
+- **[AI-Powered Cloud Incident Intelligence Platform](https://github.com/Knandwani07/ai-powered-cloud-incident-intelligence)** — Self-healing ECS Fargate infrastructure feeding an AI-driven incident analysis pipeline (Amazon Comprehend, Athena, EventBridge)
+
+- **[Cross-Region RDS Disaster Recovery Framework](https://github.com/Knandwani07/rds-disaster-recovery-framework)** — Automated encrypted snapshots, cross-region replication, and one-command failover
+
+- **[Secure Three-Tier Architecture on AWS](https://github.com/Knandwani07/aws-three-tier-architecture)** — Multi-AZ deployment with zero public database exposure
+
+- **[Serverless Expense Tracker](https://github.com/Knandwani07/aws-serverless-expense-tracker)** — Full-stack serverless application built with Lambda, API Gateway, DynamoDB, and Cognito
+
+- **[High Availability VPC Architecture](https://github.com/Knandwani07/aws-high-availability-vpc)** — Production-style multi-AZ networking foundation with public and private subnets
 
 ---
 
 ## 💼 Professional Experience
 
-### **AWS Cloud Technology Trainee — Genie US Tech**  
-*Dec 2024 – Feb 2025*  
-- Documented cloud architectures and deployment paths  
-- Created diagrams, step-by-step guides, and technical documentation  
-- Helped teams understand and adopt AWS practices  
-- Improved clarity and reliability of project documentation  
+### **AWS Cloud Intern — GenieUS Tech**
 
-### **Faculty & Content Writer — R.advantec**  
-- Designed educational content for technical subjects  
-- Simplified advanced concepts for students  
-- Created well-structured notes and presentations  
+*Dec 2024 – May 2025*
+
+- Designed and deployed a segmented AWS VPC architecture with public/private subnets for EC2 workloads
+
+- Built a real-time serverless WebSocket chat app using CloudFormation, API Gateway, and Lambda
+
+- Authored technical documentation and architecture diagrams; format was later adopted as the team's standard
+
+
+
+### **Faculty — R.advantec Computer Institution**
+
+*Mar 2023 – Apr 2024*
+
+- Taught computer applications to 20+ students, translating technical concepts into structured study material
 
 ---
-
 ## ✍️ Writing & Knowledge Sharing
-Writing helps me think better and helps others learn faster.  
-I regularly publish across platforms:
 
-- **Medium:** Articles on AI, cloud, and modern technology  
-- **Substack:** I write my own technical articles and also co-author in-depth AWS & AI pieces with fellow AWS Community Builders  
-- **AWS Study Platform:** An interactive learning hub built to support certification learners
+- **[Built on AWS (Substack)](https://substack.com/@khushinandwani07)** — Long-form technical writing on AWS architecture and design reasoning
 
+- **[Cloud Write-Ups (Medium)](https://medium.com/@khushinandwanii)** — Hands-on AWS implementation guides
+
+- **[The Cloud Whisperers (Substack)](https://substack.com/@thecloudwhisperers)** — Certification-focused writing on AWS exam domains
 ---
 
-## 📌 **Read my work:**  
-- **Medium:** https://medium.com/@khushinandwanii  
-- **Substack (Personal):** https://substack.com/@knandwani07  
-- **Substack (Co-authored):** https://substack.com/@thecloudwhisperers
+## 🤝 Let's Connect
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/khushi-nandwani/
+- 💻 **GitHub:** https://github.com/Knandwani07
+- 📬 **Substack:** https://substack.com/@khushinandwani07
+- ✍️ **Dev Community:** https://dev.to/khushi_nandwani07
+- 📝 **Medium:** https://medium.com/@khushinandwanii
+- 🌐 **Portfolio:** https://main.d1n4wt6uo5bfx6.amplifyapp.com/
 
 ---
 ## 📊 GitHub Profile Summary
@@ -96,7 +121,7 @@ I regularly publish across platforms:
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/khushi-nandwani](https://www.linkedin.com/in/khushi-nandwani)  
-- **Email:** khushinandwani07@gmail.com  
+- **Email:** khushinandwani22@gmail.com  
 - **GitHub:** [github.com/Knandwani07](https://github.com/Knandwani07)
   
 
