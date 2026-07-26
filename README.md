@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Khushi 👋</h1>
-<h3 align="center">Cloud Engineer | AWS Certified (SAA, AI, CCP) | Building Self-Healing & Disaster-Recovery Infrastructure</h3>
+<h3 align="center">Aspiring Cloud Engineer | AWS Certified (SAA, AI, CCP) | Building Self-Healing & Disaster-Recovery Infrastructure</h3>
 
 ---
 
