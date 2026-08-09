@@ -135,7 +135,7 @@ Certification-focused writing on AWS exam domains
 
 **LinkedIn:** https://www.linkedin.com/in/khushi-nandwani
 
-**Email:** khushinandwani22@gmail.com
+**Email:** nandwanikhushi22@gmail.com
 
 **GitHub:** https://github.com/Knandwani07
 
