@@ -118,7 +118,10 @@ Certification-focused writing on AWS exam domains
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Knandwani07&theme=github-dark&hide_border=true" alt="Contribution Graph">
+  <img
+    src="https://raw.githubusercontent.com/Knandwani07/Knandwani07/main/assets/github-activity.svg"
+    alt="Khushi's GitHub Activity Graph"
+  />
 </p>
 
 ---
