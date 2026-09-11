@@ -115,17 +115,6 @@ Certification-focused writing on AWS exam domains
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Knandwani07&theme=github-dark&hide_border=true"
-    alt="Khushi's GitHub Contribution Stats"
-  />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
