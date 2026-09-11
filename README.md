@@ -119,7 +119,7 @@ Certification-focused writing on AWS exam domains
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Knandwani07/Knandwani07/main/assets/github-activity.svg"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Knandwani07&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true"
     alt="Khushi's GitHub Activity Graph"
   />
 </p>
