@@ -113,6 +113,14 @@ Certification-focused writing on AWS exam domains
 ![](https://raw.githubusercontent.com/Knandwani07/Knandwani07/main/profile-summary-card-output/github_dark/3-stats.svg)
 ![](https://raw.githubusercontent.com/Knandwani07/Knandwani07/main/profile-summary-card-output/github_dark/4-productive-time.svg)
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Knandwani07/Knandwani07/main/metrics.plugin.languages.svg"
+    alt="Most used programming languages across repositories"
+    width="100%"
+  />
+</p>
+
 ---
 
 ## 📫 Let's Connect
