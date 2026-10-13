@@ -115,14 +115,6 @@ Certification-focused writing on AWS exam domains
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Knandwani07/Knandwani07/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
-</p>
-
----
-
 ## 📫 Let's Connect
 
 **LinkedIn:** https://www.linkedin.com/in/khushi-nandwani
