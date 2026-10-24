@@ -113,6 +113,10 @@ Certification-focused writing on AWS exam domains
 ![](https://raw.githubusercontent.com/Knandwani07/Knandwani07/main/profile-summary-card-output/github_dark/3-stats.svg)
 ![](https://raw.githubusercontent.com/Knandwani07/Knandwani07/main/profile-summary-card-output/github_dark/4-productive-time.svg)
 
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Knandwani07/ecs-guardian,Knandwani07/aws-three-tier-architecture,Knandwani07/rds-disaster-recovery-framework&type=Date)](https://www.star-history.com/#Knandwani07/ecs-guardian&Knandwani07/aws-three-tier-architecture&Knandwani07/rds-disaster-recovery-framework&Date)
+
 ---
 
 ## 📫 Let's Connect
